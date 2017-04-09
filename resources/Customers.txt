@@ -1,0 +1,4 @@
+Sergei;Ivanov;Ivanovich;Depozit;300;true;0.15;04.04.2017;04.04.2018;
+Artur;Beglov;Sergeevich;Credit;4000;true;0.15;04.04.2017;04.04.2018;
+Sergei;Ivanov;Ivanovich;Account;300;true;
+Artur;Beglov;Sergeevich;Account;4000;true;
